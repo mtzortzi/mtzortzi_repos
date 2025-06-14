@@ -2,6 +2,8 @@
 
 - [Text-Sentiment-Classifier-API](https://github.com/mtzortzi/Text-Sentiment-Classifier-API)
 
+- [Hello kubernetes app](https://github.com/mtzortzi/hello-k8s)
+
 - [ELEGANT-Planner](https://github.com/mtzortzi/ELEGANT-Planner) > (https://github.com/mtzortzi/ELEGANT-Planner/tree/ML-GNNs) 
   - [ELEGANT-Planner](https://github.com/mtzortzi/ELEGANT-Planner/tree/ML-GNNs/ocludify_ML_gnns)
 
